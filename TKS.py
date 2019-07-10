@@ -205,19 +205,7 @@ def runGame(score,by,sby,bxvel,lvl):
 				time.sleep(2)
 				pygame.quit()
 				quit()
-			#============================#
-			#if event.type==pygame.KEYDOWN:
-				#if event.key==pygame.K_Q:
-					#abrt=True
-				""" dx=-5
-				elif event.key==pygame.K_RIGHT:
-					dx=5
-				elif event.key==pygame.K_UP:
-					dy=-5
-				elif event.key==pygame.K_DOWN:
-					dy=5"""
-					
-			#print(event)
+			
 				
 				
 			if event.type==pygame.KEYUP:
